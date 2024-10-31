@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: QQworld Short URL\n"
+"Report-Msgid-Bugs-To: http://www.qqworld.org\n"
+"POT-Creation-Date: 2014-12-22 16:03+0800\n"
+"PO-Revision-Date: 2014-12-22 16:04+0800\n"
+"Last-Translator: Michael Wang <admin@qqworld.org>\n"
+"Language-Team: QQWorld <admin@qqworld.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Generator: Poedit 1.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: qqworld-shorturl.php:216
+msgid "Michael Wang"
+msgstr "王晓骞"
+
+#: qqworld-shorturl.php:226
+msgid "Settings"
+msgstr "设置"
+
+#: qqworld-shorturl.php:236 qqworld-shorturl.php:242
+msgid "QQWorld Short URL"
+msgstr "QQWorld短网址"
+
+#: qqworld-shorturl.php:243
+msgid "Automatically generate short link url when publishing post."
+msgstr "发布文章时自动生成短网址URL。"
+
+#: qqworld-shorturl.php:244
+msgid "Using <strong>wp_get_shortlink($post_id)</strong> to output short url."
+msgstr "使用 <strong>wp_get_shortlink($post_id)</strong> 输出短网址。"
+
+#: qqworld-shorturl.php:251
+msgid "Post Types"
+msgstr "文章类型"
+
+#: qqworld-shorturl.php:263
+msgid "Mode"
+msgstr "模式"
+
+#: qqworld-shorturl.php:268
+msgid "Local Server"
+msgstr "本地服务"
+
+#: qqworld-shorturl.php:269
+msgid "Google URL Shortener (goo.gl)"
+msgstr "谷歌短网址（goo.gl）"
+
+#: qqworld-shorturl.php:270
+msgid "Baidu Short URL (dwz.cn)"
+msgstr "百度短网址（dwz.cn）"
+
+#: qqworld-shorturl.php:271
+msgid "Sina URL Shortener (sina.lt)"
+msgstr "新浪短网址（sina.lt）"
+
+#: qqworld-shorturl.php:272
+msgid "NetEase Short URL (126.am)"
+msgstr "网易短网址（126.am）"
+
+#: qqworld-shorturl.php:279
+msgid "Google API Key"
+msgstr "谷歌API密钥"
+
+#: qqworld-shorturl.php:289
+msgid "Sina API Key"
+msgstr "新浪API密钥"
+
+#: qqworld-shorturl.php:299
+msgid "NetEase API Key"
+msgstr "网易API密钥"
+
+#~ msgid "Sina URL Shortener (goo.gl)"
+#~ msgstr "新浪短网址"
+
+#~ msgid "Short URL Domain"
+#~ msgstr "短网址域名"
+
+#~ msgid "Set to empty to using deault domain <strong>%s</strong>."
+#~ msgstr "设置为空，则使用默认域名 <strong>%s</strong>。"
+
+#~ msgid ""
+#~ "Set to empty to using deault domain <strong>%s</strong>, if set another "
+#~ "domain, please set it to you website IP address."
+#~ msgstr ""
+#~ "设置为空，则使用默认域名 <strong>%s</strong>，如果设置了其他域名，请将其指"
+#~ "向你的网站的IP。"
+
+#~ msgid "Using Google Fonts"
+#~ msgstr "使用谷歌字体"
+
+#~ msgid "Enabled"
+#~ msgstr "开启"
+
+#~ msgid "Disabled"
+#~ msgstr "禁用"
+
+#~ msgid "(Speed up)"
+#~ msgstr "（加速）"
+
+#~ msgid "QQWorld Speed for China"
+#~ msgstr "QQWorld加速中国版"
+
+#~ msgid ""
+#~ "If your host is in china, you might need this plugin to make your website "
+#~ "that running faster."
+#~ msgstr "如果你的主机在中国，你可能需要这个插件使你的网站跑得更快。"
+
+#~ msgid ""
+#~ "If you want to update, don't forget temporarily enable these options."
+#~ msgstr "如果你想更新的时候，不要忘记临时开启这些选项。"
+
+#~ msgid "Using Gravatar"
+#~ msgstr "使用全球通用头像(Gravatar)"
+
+#~ msgid "Local Avatar"
+#~ msgstr "本地头像"
+
+#~ msgid "Insert Avatar"
+#~ msgstr "插入头像"
+
+#~ msgid "Using Default Avatar"
+#~ msgstr "使用默认头像"
+
+#~ msgid "Enable zxcvbn-async"
+#~ msgstr "启用Dropbox同步插件"
+
+#~ msgid "Auto Update Core"
+#~ msgstr "自动检查升级核心"
+
+#~ msgid "Auto Update Plugins"
+#~ msgstr "自动检查升级插件"
+
+#~ msgid "Auto Update Themes"
+#~ msgstr "自动检查升级主题"
+
+#~ msgid "Upload Avatar"
+#~ msgstr "上传头像"
+
+#~ msgid ""
+#~ "Because of Google was blocked by china or access wordpress.org slow, so "
+#~ "sometimes china network access wordpress website is very slow, using my "
+#~ "plugin will be able to fix this."
+#~ msgstr ""
+#~ "因为中国大陆屏蔽了Google或访问wordpress.org速度慢，所以有时候会导致大陆的"
+#~ "网络访问Wordpress站点速度非常慢，使用本插件可以有效解决这个问题。"
